@@ -1,0 +1,15 @@
+ajoutPersonne BruceWillis 1955-03-19 Idar-Oberstein 0
+ajoutPersonne GaryOldman 1958-03-21 London 0
+ajoutPersonne MillaJovovich 1975-12-17 Kiev 1
+ajoutPersonne LucBesson 1959-03-18 Paris 0
+ajoutPersonne ChristopherNolan 1970-07-30 London 0
+supPersonne MillaJovovich
+ajoutFilm TheFifthElement 1997-05-09 LucBesson
+ajoutFilm BatmanBegins 2005-06-15 ChristopherNolan
+ajoutDescFilm TheFifthElement 1997-05-09 SearchForALegendaryCosmicWeaponToKeepEvilAndMrZorgAtBay 126
+ajoutActeurFilm TheFifthElement 1997-05-09 BruceWillis KorbenDallas
+ajoutFilm BatmanBegins 2005-06-15 ChristopherNolan
+ajoutActeurFilm TheFifthElement 1997-05-09 GaryOldman EmanuelZorg
+ajoutDescFilm BatmanBegins 2005-06-15 BruceWayneBecomesBatmanToSaveGothamCityFromCrime 140
+ajoutActeurFilm BatmanBegins 2005-06-15 GaryOldman JimGordon
+exit
